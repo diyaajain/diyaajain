@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Jain (dee-yuh)</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">always ready to lear</h3>
 
-- 🔭 I’m currently working on **CatPhotoApp**
-
-- 🌱 I’m currently learning **Web Design**
+- 🌱 I’m currently mastering **Python**
 
 - 📫 How to reach me **diyadeepi.jain@gmail.com**
 
