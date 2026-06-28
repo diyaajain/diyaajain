@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diya Jain (dee-yuh)</h1>
-<h3 align="center">always ready to lear</h3>
+<h3 align="center">always ready to learn</h3>
 
 - 🌱 I’m currently mastering **Python**
 
