@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya (dee-yuh)</h1>
 <h3 align="center">always ready to learn</h3>
 
-**Computer Science graduate (University of South Florida, Dec 2024) | Data Analyst**
+**Computer Science graduate (University of South Florida, Dec 2024) | Data Analyst**  
 I turn messy data into clear answers using **SQL**, **Python** and visualization. <!-- edit: add a line about the kind of problems you like -->
 
 ## 🔭 What I'm working on
@@ -33,7 +33,7 @@ I turn messy data into clear answers using **SQL**, **Python** and visualization
 | [**USF Coursework**](https://github.com/diyaajain/usf-coursework) | Databases, operating systems, algorithms, cryptography and more, organized by course | SQL · C · C++ · Java |
 
 ## 🎓 Education
-B.S. Computer Science, University of South Florida (Dec 2024)
+B.S. Computer Science, University of South Florida (Dec 2024)  
 Relevant coursework: Database Design, Analysis of Algorithms, Data Structures, Operating Systems, Linear Algebra, Modern Cryptography
 
 ## 📫 Let's connect
