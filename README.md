@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Diya (dee-yuh)</h1>
 <h3 align="center">always ready to learn</h3>
 
-**Computer Science graduate (University of South Florida, Dec 2024) | Data Analyst**  
-I turn messy data into clear answers using **SQL**, **Python** and visualization. <!-- edit: add a line about the kind of problems you like -->
+**Data Analyst | Computer Science graduate from University of South Florida**  
+I turn messy data into clear answers using **SQL**, **Python** and visualization.  
 
 ## 🔭 What I'm working on
-- Building **SupportIQ**, a customer support analytics platform <!-- confirm/describe -->
-- Sharpening SQL and dashboarding skills <!-- e.g. Tableau / Power BI, if true -->
+- Building **SupportIQ**, a customer support analytics platform  
+- Sharpening Python and SQL skills
 
 ## 🧰 Skills
 | | |
@@ -37,4 +37,4 @@ B.S. Computer Science, University of South Florida (Dec 2024)
 Relevant coursework: Database Design, Analysis of Algorithms, Data Structures, Operating Systems, Linear Algebra, Modern Cryptography
 
 ## 📫 Let's connect
-[LinkedIn](https://linkedin.com/in/diyajain08/) · [Email](mailto:diyadeepi.jain@gmail.com) · [Portfolio](https://diyaajain.github.io/portfolio-website/) <!-- verify link or remove -->
+[LinkedIn](https://linkedin.com/in/diyajain08/) · [Email](mailto:diyadeepi.jain@gmail.com) · [Portfolio](https://diyaajain.github.io/portfolio-website/)
