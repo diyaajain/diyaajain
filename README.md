@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Diya Jain (dee-yuh)</h1>
+<h1 align="center">Hi 👋, I'm Diya (dee-yuh)</h1>
 <h3 align="center">always ready to learn</h3>
-
-# Hi, I'm Diya Jain 👋
 
 **Computer Science graduate (University of South Florida, Dec 2024) | Data Analyst**
 I turn messy data into clear answers using **SQL**, **Python** and visualization. <!-- edit: add a line about the kind of problems you like -->
 
 ## 🔭 What I'm working on
-- <!-- e.g. Analyzing [dataset] to answer [question] -->
 - Building **SupportIQ**, a customer support analytics platform <!-- confirm/describe -->
 - Sharpening SQL and dashboarding skills <!-- e.g. Tableau / Power BI, if true -->
 
