@@ -24,17 +24,5 @@ I turn messy data into clear answers using **SQL**, **Python** and visualization
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="36"/>
 </p>
 
-## 📌 Featured projects
-| Project | What it is | Tech |
-|---|---|---|
-| [**SentimentScope**](https://github.com/diyaajain/SentimentScope) | <!-- one line: what it analyzes and what you found --> | JavaScript |
-| [**InCollege**](https://github.com/diyaajain/InCollege-diya) | Team-built, menu-driven student networking app (Software Engineering capstone) | Python |
-| [**Small Business Enterprise System**](https://github.com/diyaajain/small-business-enterprise-system) | <!-- one line --> | <!-- tech --> |
-| [**USF Coursework**](https://github.com/diyaajain/usf-coursework) | Databases, operating systems, algorithms, cryptography and more, organized by course | SQL · C · C++ · Java |
-
-## 🎓 Education
-B.S. Computer Science, University of South Florida (Dec 2024)  
-Relevant coursework: Database Design, Analysis of Algorithms, Data Structures, Operating Systems, Linear Algebra, Modern Cryptography
-
 ## 📫 Let's connect
 [LinkedIn](https://linkedin.com/in/diyajain08/) · [Email](mailto:diyadeepi.jain@gmail.com) · [Portfolio](https://diyaajain.github.io/portfolio-website/)
