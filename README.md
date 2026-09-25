@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm Diya (dee-yuh)</h1>
-<h3 align="center">always ready to learn</h3>
+<h2 align="center">Hi 👋, I'm Diya (dee-yuh)</h2>
 
 **Data Analyst | Computer Science graduate from University of South Florida**  
 I turn messy data into clear answers using **SQL**, **Python** and visualization.  
-
-## 🔭 What I'm working on
-- Building **SupportIQ**, a customer support analytics platform  
-- Sharpening Python and SQL skills
 
 ## 🧰 Skills
 | | |
@@ -25,4 +20,4 @@ I turn messy data into clear answers using **SQL**, **Python** and visualization
 </p>
 
 ## 📫 Let's connect
-[LinkedIn](https://linkedin.com/in/diyajain08/) · [Email](mailto:diyadeepi.jain@gmail.com) · [Portfolio](https://diyaajain.github.io/portfolio-website/)
+[LinkedIn](https://linkedin.com/in/diyajain08/) · [Portfolio](https://diyaajain.github.io/portfolio-website/)
