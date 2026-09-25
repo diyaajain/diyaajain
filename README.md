@@ -1,14 +1,10 @@
-<h2 align="center">Hi 👋, I'm Diya (dee-yuh)</h2>
+<h2 align="center">Hi 👋, I'm Diya (dee-yuh)</h2> 
 
-**Data Analyst | Computer Science graduate from University of South Florida**  
-I turn messy data into clear answers using **SQL**, **Python** and visualization.  
+I'm a Computer Science graduate interested in Data Science, Analytics, and AI.
 
-# 🧰 Skills
-| | |
-|---|---|
-| **Data & Analysis** | Python (pandas, NumPy, Matplotlib) , SQL (PostgreSQL, SQLite) <!-- keep only what you've used --> |
-| **Languages** | Python · Java · C / C++ · JavaScript · Swift |
-| **Tools** | Git/GitHub · Excel · Jupyter · <!-- Tableau / Power BI --> |
+💻 What I work with
+
+Python · SQL · Java · C/C++  
 
 ## 📫 Let's connect
 [LinkedIn](https://linkedin.com/in/diyajain08/) · [Portfolio](https://diyaajain.github.io/portfolio-website/)
